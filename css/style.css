@@ -1,0 +1,34 @@
+body {
+    background-color:white;
+}
+#outer {
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    alt: Codehelp;
+    font-size:20px;
+    border-radius: 10px;
+}
+#heading {
+    text-align: left;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.discount{
+    color: blue;
+}
+.caption{
+    text-align: left;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+button{
+    background-color:rgb(33, 247, 33);
+    border: 1px solid rgb(33, 247, 33);
+    height: 25px;
+    padding: 3px;
+    box-sizing:border-box;
+    border-radius:5px;
+    color: white;
+}
